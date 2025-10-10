@@ -12,6 +12,4 @@ To understand that there is an affective palate of emotions surrounding the dept
 
 Deep mapping teaches us to stay with and to probe the edges of our lack of understanding like a tongue that cannot help but touch an ulcer: it provokes distress but also a strange satisfaction. We watch the sheer spectacle of our ignorance in the age of hyperobjective challenges, struggling to know and yet always falling short. Guy Debord wrote that what was once lived is not viewed as an image as if on a screen; we passively identify with the spectacle of life rather than participating in it. To fail to know and be disheartened is to surrender agency, and yet deep mapping *never* surrenders agency. It has agency: a deep map is an agential assemblage of human and non-human actants as well as representation. It requires agency to be read: one cannot passively consume a deep map, and it demands interaction. A true deep map is radically meaningless or absurd at times, confronting the user with its incompleteness and protean meaning in a mode of art. It is a hijacking, a *détournement*, which creates a spectacle in order to disrupt the flow of a spectacle.
 
-#ParaBlock #CH1 #Situationist #Detournement #Derive #Debord #SocietyoftheSpectacle #DeepMapping 
-
 [^1]: Guy Debord, and Ken Knabb (trans), _Society of the Spectacle_ (AKPress, 2005) 
