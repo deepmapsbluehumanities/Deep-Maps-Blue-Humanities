@@ -12,3 +12,4 @@ This book comments upon itself because text cannot tell the story that I wish to
 
 I promise you both order and disorder, chaos and cohesion, research and creative practice. This book, in every sense, is an expression of the fierce and undying hope that digital humanities practice and experimental publishing can add to the much-needed bibliodiversity of academic writing in a time of crisis.
 
+[Link to section](https://www.juncture-digital.org/deepmapsbluehumanities/Deep-Maps-Blue-Humanities/Self-Commentary)
