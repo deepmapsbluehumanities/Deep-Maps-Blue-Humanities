@@ -8,4 +8,6 @@ The biggest challenge of deep mapping, readily applicable to the blue humanities
 
 Likewise, there is a reason why we try and tell stories from datasets that are beyond individual human comprehension. We fear the more-than-knowable, the vast excess of data that it is possible to collect. We craft algorithms and deep learning AI models to try and make sense of these troves of data. It is increasingly impossible to read everything, know everything, or even be aware of new developments in a world of dizzying speed. And so we push back the depths with claims to positivist authority, posthumanist creeds stating that AI will save us like some kind of messiah, or by burning ever-larger amounts of energy to process and interpret what is received but now known.
 
+[Link to section](https://www.juncture-digital.org/deepmapsbluehumanities/Deep-Maps-Blue-Humanities/Void)
+
 [^1]: Hau’ofa, Epeli, ‘Our Sea of Islands’, 1994 <[http://scholarspace.manoa.hawaii.edu/handle/10125/12960](http://scholarspace.manoa.hawaii.edu/handle/10125/12960)> [accessed 25 February 2014]; Hau’ofa, Epeli, ‘The Ocean in Us’, 1998 <[http://scholarspace.manoa.hawaii.edu/handle/10125/13234](http://scholarspace.manoa.hawaii.edu/handle/10125/13234)> [accessed 25 February 2014]
