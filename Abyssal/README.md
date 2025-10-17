@@ -4,4 +4,6 @@ Pugh and Chandler set out to "explore how ‘abyssal’ work turns to the Caribb
 
 And yet within this chaos, the seeds of new narratives, of striving for new ontologies and histories and poetics and relationships. Security is a dream that has ended for many in this world, disrupted by settler-colonialism, extractive capitalism, globalisation and neoliberalism. Some lose their homes to the waves and see their lifestyles eaten by an abyss that consumes ideas, goods, livelihoods and identities in equal measure. Others build walls and hide behind coastal engineering, dreaming of cloud seeding and ocean mining and scientific progress and border control. The abyssal reality of the great wave to come looms, and the lessons to be learned reside in unexpected corners and practices. Deep map to understand, deep map to survie, learn to swim in the vortex, make meaning in the dissolution of world orders. 
 
+[Link to section](https://www.juncture-digital.org/deepmapsbluehumanities/Deep-Maps-Blue-Humanities/Abyssal)
+
 [^1]: Jonathan Pugh and David Chandler (2023), _The World as Abyss: The Caribbean and Critical Thought in the Anthropocene_ (London: University of Westminster Press), p. 17.
