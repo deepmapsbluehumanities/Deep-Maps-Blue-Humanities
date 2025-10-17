@@ -1,2 +1,11 @@
 # Echoes
 
+One way in which this phenomenon can assist the blue humanities in the twenty-first century is by acting as a herald of the inevitable terror brought on by the limits of Western positivisim. The technological solutionists of the world believe that humanity can engineer its way out of all problems, and yet there is a profound and unformed primordial absence that this wordview is not equipped to address, save through the mediations of the science fiction and horror genres. The paratext emerges from the deep, returning warped echoes. In my own previous work, I have wondered what voice would emerge from bodies of water if they were able to talk? Would they scream of the subsumed colonial and neocolonial trauma hidden beneath their surface? Would they bear witness to the effects of human climate degradation?[^1]
+
+When we ask questions of the deep, it returns human voices distorted by a medium of fear and opportunity. Like Derek Walcott's echoes of history returning from the depths that swallowed the story of enslaved peoples, their bodies, their memories, the sea is a history that does not flatter in its retelling. If the ocean is to speak, then it will return echoes of slow violence, of bodies floating in the brine, of that which was thrown away in the hope that it might never return. 
+
+The returned echoes are shaped by the dominant emotions of the speaker. If motivated by fear, nightmares resurface. If motivated by denial, then the consequences of lies emerge. If motivated by a storied repository of ancestors and of underworlds then the ocean is strength and legacy. There are many ways to traverse the surface, many ways to gaze beneath, many emotions and many stories to speak to the water and many meanings to derive.
+
+[Link to section](https://www.juncture-digital.org/deepmapsbluehumanities/Deep-Maps-Blue-Humanities/Echoes)
+
+[^1]: James L. Smith ‘Anxieties of Access: Remembering as a Lake’. _Environmental Humanities_ 13, no. 1 (1 May 2021): 245–63. [https://doi.org/10.1215/22011919-8867296](https://doi.org/10.1215/22011919-8867296).
