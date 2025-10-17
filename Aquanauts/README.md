@@ -6,6 +6,8 @@ I find this paragraph troubling, but also agree with it. It bears further scruti
 
 On the other hand, allowing capital to shape our relationship with the ocean is a trap. This article actively and effectively compares ocean exploration with space exploration and the narratives told there. This immediately raises the spectre of Elon Musk and his effective peddling of utopian hype coupled with self-enrichment and political interference. His effective use of techno-optimism - we will have self-driving cars, we will control machines with our mind, we will go to Mars - has disguised his right wing techno-authoritarian instincts for many years. Suspending disbelief when entrepreneurs and capitalists give money to enable more ocean science by a generation of new aquanauts may seem like a pragmatic trade-off for renewed attention, but it is also the weaving of a spell that hides the urge to make space and procure rare earth minerals for profit.
 
+[Link to section](https://www.juncture-digital.org/deepmapsbluehumanities/Deep-Maps-Blue-Humanities/Aquanauts)
+
 [^1]: Craig N. McLean (2025) *The aquanaut: still a tool for ocean science*. Front. Mar. Sci. 12:1527929. doi: 10.3389/fmars.2025.1527929
 
 
