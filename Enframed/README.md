@@ -5,6 +5,6 @@ Cartography enframes the ocean, bringing rigidity, control and order. It becomes
 
 By measuring the ocean and viewing it from above through the eyes of satellites and the abstraction of mapping platforms - and even more sophisticated methods such as GIS - the water becomes a substrate for human activities. It becomes a database, a resource, a series of mountains and valleys to be mined, a new frontier for the manifest destiny of the human race. 
 
-
+[Link to section](https://www.juncture-digital.org/deepmapsbluehumanities/Deep-Maps-Blue-Humanities/Enframed)
 
 [^1]: Melody Jue. _Wild Blue Media: Thinking through Seawater_. Duke University Press, 2020. [https://doi.org/10.1215/9781478007548](https://doi.org/10.1215/9781478007548), p. 126
