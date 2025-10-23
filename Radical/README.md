@@ -12,4 +12,4 @@ One particular trope of deep sea sensing and investigation that cannot be permit
 
 [Link to section](https://www.juncture-digital.org/deepmapsbluehumanities/Deep-Maps-Blue-Humanities/Radical)
 
-[^1]: Phillip Steinberg (2025). Thinking from multiple oceans: historical and elemental lineages and futures of ocean geography(s). _Social & Cultural Geography_, 1–21, here p.1. https://doi.org/10.1080/14649365.2025.2476507
+[^1]: Phillip Steinberg (2025). Thinking from multiple oceans: historical and elemental lineages and futures of ocean geography(s). _Social & Cultural Geography_, 1–21, here p.1. [https://doi.org/10.1080/14649365.2025.2476507](https://doi.org/10.1080/14649365.2025.2476507)
