@@ -29,4 +29,6 @@ The final result will exist online, but also captured and archived sustainably a
 
 See the [peer review guide](https://copim.pubpub.org/pub/deep-maps-peer-review/release/1) above for instructions about how to leave feedback within Github. This is experimental and as a result all comments are welcome.
 
-<iframe src="https://tapestries.media/u/jameslouis.smith/cecf434c-ce87-4dd8-8f09-31220b2df0d9" width="1024" height="768" title="Tapestry Deep Maps: Blue Humanities (vertical draft)" frameborder="0"></iframe>
+To view the Tapestry, you can look here or click [here](https://tapestries.media/u/jameslouis.smith/cecf434c-ce87-4dd8-8f09-31220b2df0d9) for full screen in a new tab.
+
+<iframe src="https://tapestries.media/u/jameslouis.smith/cecf434c-ce87-4dd8-8f09-31220b2df0d9" width=100% height="768" title="Tapestry Deep Maps: Blue Humanities (vertical draft)" frameborder="0"></iframe> 
