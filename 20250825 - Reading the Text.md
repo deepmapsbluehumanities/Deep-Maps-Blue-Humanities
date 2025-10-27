@@ -28,3 +28,5 @@ The final result will exist online, but also captured and archived sustainably a
 4. Suggestions about Juncture elements appearing in-line (maps, reference material) - see Juncture user guide
 
 See the [peer review guide](https://copim.pubpub.org/pub/deep-maps-peer-review/release/1) above for instructions about how to leave feedback within Github. This is experimental and as a result all comments are welcome.
+
+<iframe src="https://tapestries.media/u/jameslouis.smith/cecf434c-ce87-4dd8-8f09-31220b2df0d9" width="1024" height="768" title="Tapestry Deep Maps: Blue Humanities (vertical draft)" frameborder="0"></iframe>
