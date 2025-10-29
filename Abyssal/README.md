@@ -1,3 +1,5 @@
+.ve-style ../custom.css
+
 # Abyssal
 
 Pugh and Chandler set out to "explore how ‘abyssal’ work turns to the Caribbean, not to find a world-saving cosmology to correct the errors of modern reasoning but, to learn from those who have long been said to lack fixed grounds of ontological security."[^1] Within an unstable abyss of identities in which there is no narrative of redemption of technical solutionism, Western thinkers must learn from the example of those for whom an abyss has already risen, swallowing up fixity. Fixity is not a luxury that anyone - let alone anyone who lives in litoral or pelagic zones - can afford or expect. Like a deep map and its hungry corpus of heterogeneous ideas, sights, sounds, perspectives and memories, abyssal and deep blue modernity will be chaos. 
