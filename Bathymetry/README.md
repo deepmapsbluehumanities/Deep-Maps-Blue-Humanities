@@ -12,6 +12,8 @@ Technology mediates the ability to descend and the possibility of safely ascendi
 
 At the attenuation of *telos*, the world does end for the epistemic mariner captured within the estranging bubble of the bathymetric descent. The surface is annihilated as the view reveals dreams, visions, annihilations, absences, strange presences, excesses, voids. Only relationships with the strange and the inchoate remain, drifting in currents of uncertain excess and absence.
 
+.ve-media https://iiif.europeana.eu/presentation/2024904/https___www_topfoto_co_uk_asset_3041800/manifest width=50% center
+
 [Link to section](https://www.juncture-digital.org/deepmapsbluehumanities/Deep-Maps-Blue-Humanities/Bathymetry)
 
 [^1]: Anne-Cathrin Wölfl, Helen Snaith, Sam Amirebrahimi, Colin W. Devey, Boris Dorschel, Vicki Ferrini, Veerle A. I. Huvenne, et al. ‘Seafloor Mapping – The Challenge of a Truly Global Ocean Bathymetry’. _Frontiers in Marine Science_ 6 (5 June 2019). [https://doi.org/10.3389/fmars.2019.00283](https://doi.org/10.3389/fmars.2019.00283).
