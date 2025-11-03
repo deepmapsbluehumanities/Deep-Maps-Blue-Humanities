@@ -1,3 +1,5 @@
+.ve-style ../custom.css
+
 # Contradiction
 
 This book is a commentary on its own contents, and on the tensions and contradictions inherent to its subject matter. It takes a looser structure because the relationship between a range of thematic axes and nodes is equally loose. Likewise, a deep map comments upon itself and its many vicissitudes, drawing attention to the raw edges, lacunae, chaotic churnings and spots of darkness within its uneasy depths. A deep map should roil, it should wait, it should hunger and it should never reveal itself. It lays in wait, a vast excess. It is chaos, unformed and unassimilated. Strands of meaning and strings of exploration are drawn from the foam, lines drawn on the unstable surface of something that defies permanency. 
