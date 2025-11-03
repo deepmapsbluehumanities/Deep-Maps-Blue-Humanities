@@ -1,3 +1,5 @@
+.ve-style ../custom.css
+
 # Rapture
 
 It would be an egregious oversight not to explore the plot of the video game _Bioshock_ when exploring the intersection of neoliberalism, libertarianism, the deep ocean trenches, technology, knowledge and dystopia. It is, to my mind, one of the finest narrative explorations of this topic in any medium. Enter the city of Rapture, a submerged haven for those seeking to be free of regulation or legal control in the depths by fleeing the surface to an interwar Randian gulch. The oligarchic founder of the city made it the founding creed that "a man is entitled to the sweat of his own brow".
