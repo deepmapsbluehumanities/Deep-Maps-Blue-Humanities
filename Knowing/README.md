@@ -1,3 +1,5 @@
+.ve-style ../custom.css
+
 # Knowing
 
 There is an increasing impetus to sense and to know the ocean, from its surface to its depths. Every contour, every process, every crisis, every interconnection for good or ill. As remote sensing and bathymetry become ever more sophisticated, this becomes ever more plausible. And yet, despite advances, there is always a process of storytelling, of imagination, involved in the process of mapping. The UN Sustainable Development Goal #14 demands that humanity "conserve and sustainably use the ocean, seas and marine resources", and to do so one must know what one is conserving and using.[^1] As a result, initiatives such as the The Nippon Foundation and General Bathymetry Chart of the Ocean (GEBCO) Seabed 2030 project seek to know the ocean in order to sustainably develop it. The European Union seeks create a perfect digital twin of the ocean, to "model the ocean's multiple components, provide knowledge and understanding of the past and present and create trustable predictions of its future behaviour."[^2]
