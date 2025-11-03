@@ -41,4 +41,5 @@ body {
     color: var(--colour-text);
 }
 #juncture li {
-    color: gray
+    color: gray;
+  }
