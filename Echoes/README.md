@@ -1,3 +1,5 @@
+.ve-style ../custom.css
+
 # Echoes
 
 One way in which this phenomenon can assist the blue humanities in the twenty-first century is by acting as a herald of the inevitable terror brought on by the limits of Western positivisim. The technological solutionists of the world believe that humanity can engineer its way out of all problems, and yet there is a profound and unformed primordial absence that this wordview is not equipped to address, save through the mediations of the science fiction and horror genres. The paratext emerges from the deep, returning warped echoes. In my own previous work, I have wondered what voice would emerge from bodies of water if they were able to talk? Would they scream of the subsumed colonial and neocolonial trauma hidden beneath their surface? Would they bear witness to the effects of human climate degradation?[^1]
