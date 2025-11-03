@@ -1,3 +1,5 @@
+.ve-style ../custom.css
+
 # Hijacking
 
 There is a politics to the methodology of deep mapping. Showing that a place can be captured incompletely, impressionistically, eclectically and meaningfully without ever-larger quantitative datasets is a powerful statement in the world of big data. To know something up close and incompletely, and to revel in this anti-authoritarian incompleteness, has become radical. To insist that every individual's reading of a deep map is personal and that the notion of completeness is laughable is empowering. The alternative is shallow and convenient narratives of completeness that obscure the chaos within. Deep mapping and the ocean depths are agents of chaos, long lurking at the boundaries of consciousness. An expression of that which is submerged but now known. An excess that waits.
