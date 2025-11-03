@@ -1,3 +1,5 @@
+.ve-style ../custom.css
+
 # Frontier
 
 Seminal political science fiction such as Kim Stanley Robinson's Mars trilogy teach us that humans travelling to a new planet makes nothing about humanity new. Those with a capitalist mindset will seek to capitalise, and those with a socialist mindset will plan experiments in community and wealth distribution. As this book discusses elsewhere, we run the profound risk that our ocean depths are to be plundered for mineral resources, as are the poles and areas previously marked as protected.
