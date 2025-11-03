@@ -1,3 +1,5 @@
+.ve-style ../custom.css
+
 # Hope
 
 Hope is tenuous in the dark. What wishes can be born beyond light, beyond human habitation, in the pressure and the abyssal distance from light? The ever-present crush that breaks bodies, implodes fragile submersible shells, that swallows sense-making. Why should a deep map, a blue humanities, of oceanic vertical planes be hopeful? Hope requires a radical rejection of many things: fear, lack of fear, vision, disinterest in vision, knowledge, rejection of knowledge. The contradictions grow and cluster together, bobbing on eddies and flows of fancy, madness, intuition and imagination. Emotions run deep like currents, cutting the absence with sparks of presence.
