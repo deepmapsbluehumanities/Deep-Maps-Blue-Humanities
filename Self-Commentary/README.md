@@ -1,3 +1,5 @@
+.ve-style ../custom.css
+
 # Self Commentary
 
 At first glance, a book that comments upon its own text seems a dizzying ==mise en abyme=={Q1549285} regression. Delving into the multitudes contained within all books - their contradictions, their blind spots and lacunae - is intimidating. All scholarly books contain a great roiling mass of ideas hidden beneath a placid surface. They lurk unresolved beneath their facade. The conventions of academic niceties such as rigour, polish, jargon and shared scholarly vocabulary lead to genres of description such as 'magisterial' or 'erudite' are attempts to asset order over chaos, a scientific approach to a deeply ascienctific, raw and creative process.
