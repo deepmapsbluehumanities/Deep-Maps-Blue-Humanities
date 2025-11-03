@@ -1,3 +1,5 @@
+.ve-style ../custom.css
+
 # Systematic
 
 There is a trend within more quantitatively minded humanities and social science disciplines such as archaeology to question why deep mapping is not available to answer research questions in a more 'systematic' manner. This is an understandable instinct, and makes sense if you believe that deep mapping is a method in the same way that a particular historical GIS or qualitative data analysis method is a method. This fundamentally misunderstands what a deep map is. The depth of deep mapping comes not from its scale or diversity alone, but also from its ungovernability. 
