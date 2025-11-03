@@ -1,5 +1,3 @@
-.ve-style ./custom.css
-
 **Resources:**
 
 - *Deep Maps: Monographs 'n' Markdown* (interview), <https://doi.org/10.21428/785a6451.fd1f9fe1>
