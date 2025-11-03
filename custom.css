@@ -40,3 +40,5 @@ body {
 #juncture h1, #juncture h2, #juncture h3, #juncture h4, #juncture h5, #juncture h6 {
     color: var(--colour-text);
 }
+#juncture li {
+    color: gray
