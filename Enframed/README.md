@@ -1,3 +1,5 @@
+.ve-style ../custom.css
+
 # Enframed
 Cartography enframes the ocean, bringing rigidity, control and order. It becomes quantified and demystified, policed and governed. It is owned. By seeing the deeps through an instrumentalist resource, it becomes inert. By becoming inert, it becomes unproblematic. By becoming unproblematic, it becomes a resource. Melody Jue sees the technical enframing of the ocean - through technology, through measurement, through sensing, through digital service-based interaction - as a long techno-scientific process:
 
