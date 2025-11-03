@@ -1,3 +1,5 @@
+.ve-style ../custom.css
+
 # Commentary
 
 The oceans themselves are a medium of commentary *par excellence*, a repository of unassimilated content vaster than interpretation that must be read with and against the grain, glossed and made manifest for the reader. The eddies and flows within the ocean remind us that a continuum - light to dark, low pressure to high pressure, sun to thermal vent - is never uniform. Pieces of story - ideas, material objects, lifeforms, toxins and histories - float in the currents, rising and falling as they follow the patterns of the waters. The medium of commentary creates a shifting and changing relationship between an unstable text and an expansive paratext. By commenting on itself, this text will a dialogue described by Nicola Masciandaro in the inaugural issue of the *Glossator* journal:
