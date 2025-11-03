@@ -1,3 +1,5 @@
+.ve-style ../custom.css
+
 # Fading
 
 The fading and attenuation of the bright busy surface world moves through a gradient of terror and anxiety, a clinamen along which thoughts and perceptions flow. As what can be seen lessens and what can be imagined grows, the view from the surface recedes. What, then, remains? A world of lightlessness that is not dark, a world of cold that contains warmth. A place that is dead filled with life. A place that is as rich with human and non-human history as the surface, and yet hides behind a hyper-objective absence. As the myth of the dark and the fear of an empirically-minded Western positivism gives way to a reality of dynamic colour and stories depth, we move with it.
