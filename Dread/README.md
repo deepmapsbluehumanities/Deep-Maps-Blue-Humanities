@@ -1,3 +1,5 @@
+.ve-style ../custom.css
+
 # Dread
 
 This is a particularly acute problem in the age of big data, when any fearful thing could lurk in the data if it could only be analysed. Anything that we fear to be true about the life of humanity on this planet exists beneath the surface of data, a monster of our own making and yet outside our control. Hyperobjects such as climate change account for the groundless anxiety and grief of the Anthropocene: they lurk, vaster than knowledge and bigger than the actions we put in place to address them. Something could always be 'coming to get us': the next global pandemic, the rise of the oceans, the distant Bennu asteroid, a solar flare, and the data might contain the clues. But we simply cannot know, for it is beyond us. In this race, we resort to AI, parallels processing, quantum computing, modelling. Science and engineering seeks a faculty for mapping that is big and powerful enough to absorb the entirety of Newton's ocean - and the literal ocean - and to see everything within it. To sense all, and to know all. 
