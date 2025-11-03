@@ -42,4 +42,8 @@ body {
 }
 #juncture li {
     color: gray;
-  }
+}
+#juncture a {
+    color: white;
+    text-decoration: underline;
+}  
