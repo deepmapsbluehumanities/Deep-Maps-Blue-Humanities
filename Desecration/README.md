@@ -1,3 +1,5 @@
+.ve-style ../custom.css
+
 # Desecration
 
 >The concept of “Oceanian Sovereignty” suggests therefore that governance or management action should be perceived, conceived, and engaged as a common enactment between partners which may overlap with but not be defined by the national or international governance framework whose agents and agencies are seeking to enact DSM. One of the most delicate issues confronting any governance or management context is the establishment of who can determine environmental and ecological futures and make decisions (Mawyer and Jacka, 2018).[^1]
