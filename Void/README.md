@@ -1,3 +1,5 @@
+.ve-style ../custom.css
+
 # Void
 
 What can the blue humanities learn from deep mapping? First and foremost, it provides an opportunity to enthusiastically embrace the inherent contradictions of the ocean. Secondly, it allows enthusiastic adoption of non-linear movements through material, a ==Kamau Brathwaite=={Q1722859} ==tidalectic=={Q127986411} rather than a Socratic ==dialectic=={Q48769028}. It allows for a vision of the sea as home and not alien, seas of islands not islands in the sea, to quote ==Epeli Hau’ofa=={Q1326832}.[^1] It reminds us that claims to absolute authority and neat conclusion are delusions, that the quantification and utilitarian demarcation of the blue world is a delusion of human control. It reminds us both of why humans are right to fear water, and why they are simultaneously right to love it. It reminds us that the world is a cluster of fierce problems and contradictions that cannot be solved, only explored.
