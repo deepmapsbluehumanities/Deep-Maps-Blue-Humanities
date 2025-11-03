@@ -1,3 +1,5 @@
+.ve-style ../custom.css
+
 # Mined
 
 As the economy hungers for minerals and polymetals to feed its endless growth, capitalists need look no further than the ocean. Why mine asteroids and go to space when a large proportion of the Earth's surface remains obscured by a veil of aqueous mystery, an integument that science has thus far failed to consistently navigate. A new generation of strip mining autonomous drones and resource sucking pipelines could soon denude the mineral rich patches of the ocean of all life. Why would those who can engineer a solution such as this care any more for the deep ocean than they did for what existed before the strip mine or the monoculture?
