@@ -1,3 +1,5 @@
+.ve-style ../custom.css
+
 # Vents
 
 At the bottom of the ocean where all life from the sun ends, more life still abounds. Even in the harshest places for *human* life, other forms of life are possible. The distraction of unilineal technological evolution threatens to overshadow the lessons learned from the deep. In the deep trenches of the ocean, the heat of the Earth creates new life out of the reach of the sun. Like all things in the ocean and in deep mapping, meaning exists beyond sight where interactions take place outside and in excess of orderly narrative. However, despite their separation from surface life, these spaces are not immune from larger patterns of alteration or intervention:
