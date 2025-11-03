@@ -1,3 +1,5 @@
+.ve-style ../custom.css
+
 # Leviathan
 
 The monster waits in the abyss, in potential. The hackneyed myth that medieval maps contained the legend of 'hic sunt dracones' or 'here be dragons' is untrue, and yet monsters still appear in the margins. Headless and single footed men, dog headed peoples, serpents, giants. In the depths of the ocean, krakens and leviathans and wonders await. Oceanography has only revealed more of how marvelous and alien the depths of the ocean and the unknown places may be, how outside human life and thriving. Literature, film, and popular culture are replete with genre pieces that draw on this master trope of fear. Ludovica Montecchio has used the model of Medusa, multifaceted metaphor for a multifaceted and plural abyssal vision:
