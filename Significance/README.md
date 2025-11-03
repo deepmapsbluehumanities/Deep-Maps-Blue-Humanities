@@ -1,3 +1,5 @@
+.ve-style ../custom.css
+
 # Significance
 
 Narratives that sweep and soar are simpler. Hope that spans and encompasses is reassuring. They are ambitious and their scope is visibly comprehensive. We can admire the terrain they cover. Breadth is beloved of intellectual inquiry because it can be appreciated in its entirety. We can look at its individual components and discover how they go together, put together the pieces of the puzzle and admire the eloquence of their combination. Depth, on the other hand, is something we value but fear. Profundity is not a totality, but a sense that something has dimensions and implications beyond what we can apprehend. That if we continue to gaze into it, we will see more and more. We will experience the sublime, a mixture of fear and awe, at the scope of profound implications. It is there in the language. 
