@@ -1,3 +1,5 @@
+.ve-style ../custom.css
+
 # Fear
 
 Depth comes in many forms: depth of data, depth of perspectives, depth of time, depth of space. It is a crucial word in the lexicon of place. Depth is also a crucial descriptor of the two overarching themes of this book: waters and maps. The possible definitions of depth overlap, with culture and space stretching out to create multi-disciplinary modes of profundity. In this essay, my goal is to explore the intersections between a deep mapping that takes into account the different modes of oceanic depth, and a blue humanities that moves beyond thalassology as the dominant mode of mapping deeply. Depth is, as Stacy Alaimo observes, an immensity, an excess, simply 'too much'. In her ruminations on the abyssal zones, Alaimo reflects on the writhing, animalistic protean *something* encountered in the deep.
