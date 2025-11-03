@@ -1,3 +1,5 @@
+.ve-style ../custom.css
+
 # Defamiliarisation
 
 As Serpil Oppermann has pointed out, the vocabular of Western oceanography alienates the surface world from the depths:
