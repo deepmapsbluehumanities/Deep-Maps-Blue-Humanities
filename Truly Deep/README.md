@@ -1,3 +1,5 @@
+.ve-style ../custom.css
+
 # Truly deep
 
 We often interpret the word 'deep' in deep map to mean thick, rich, and full of content. But a deep map is not a plenum, a full thing. It contains a vast emptiness created in the very capaciousness of its scope. It is possible to fall between the crack of knowledge even in the smallest place, to learn that it is not possible to know everything about anything. It is impressionistic, a bricolage, a hungry maw ingesting context, a bricolage, a chaos, a scrap book. It is a flurry of motion and colour. And yet it can never be complete, and so must always be empty. It is like the jar of marbles used in many a demonstration to show that nothing is truly full. If you pour sand inside the marbles it will be less empty, but gaps still exist between the grains of sand. It, like everything, is mostly nothing. We are mostly nothing. There is a yawning emptiness at the heart of meaning, and we flail within it.
