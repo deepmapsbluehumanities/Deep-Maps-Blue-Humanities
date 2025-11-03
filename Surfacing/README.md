@@ -1,3 +1,5 @@
+.ve-style ../custom.css
+
 # Surfacing
 
 The ocean, as Derek Walcott put it, is a grey vault of memory, and of trauma.[^1] As in Walcott's formulation, much has been swallowed by water - slavery, the legacies of colonialism, the many lives that crossed the waters in search of a Western notion of history and destiny. It swallowed painful history and memory, but the evidence of a slow subtle violence remains. It acts as a heatsink that has temporarily obscured the extent of global temperature rise, but the evidence of past misdeeds return to plague the surface. As it warms and acidifies, the ocean becomes both more problematic and intrusive to humanity, but also less mysterious. The silence of the archive is ended as the depths return and revisit historic trauma and remind us that nothing is ever truly an externality of life on land. 
