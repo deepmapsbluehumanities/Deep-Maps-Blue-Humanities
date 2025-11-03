@@ -1,3 +1,5 @@
+.ve-style ../custom.css
+
 # Darkness
 
 The availability of sunlight from the surface defines the ocean - the gradient of the sun's rays and the power that they contain is a measure of what can live. The ocean is getting darker, the habitable zone shrinking. The acidity increasing, the pollution overwhelming, the microplastics impinging. It is no mistake that in cosmogony, the creation of light is the seminal defining act. In the abyss there was nothing, in the time before the Christian creation narrative, there was only void. In mesopotamian mythologies, there was only Tiamat, the great salt water. Creation is defined against a sunless, lightless ocean. As discussed elsewhere in this book, the horror of the invisible deep is an ur-theme of life for those of European descent, but by no means the sole means of imagining what lies below the surface: womb, creator, life-giver, place of ancestors, place of stories, place of gods, haunt of monsters. 
