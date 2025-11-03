@@ -1,3 +1,5 @@
+.ve-style ../custom.css
+
 # Aquanauts
 
 >The journey of man into the sea has been long and productive. The current levels of technology have made some of the traditional functions of divers and aquanauts obsolete, but in the process, the ocean science community has left much of the public interest and curiosity behind. While governments are concentrating their slim and declining resources on the most streamlined and efficient means of attaining the information necessary for science to support policy, the private sector seems ready, visionary, and dedicated to bringing humankind back into the sea. May the aquanaut swim again and tell her stories many times to many audiences.[^1]
