@@ -1,3 +1,5 @@
+.ve-style ../custom.css
+
 # Puzzles
 
 We live in a world of extremes in which the capacity of humanity—cognition, computation, imagination—are insufficient to capture or even understand the forces at work out of and beyond sight. The reason that depth is an important concept for both the methodology of deep mapping and that of blue humanities is that it reveals a conflict between ambition and impossibility. It is desirable to know and understand as much as possible, especially when a large, complex and ever-salient force such as water is concerned. However, it is also impossible to do so, for it is ever-changing, ever-deep, ever-dark and ever-complex.  Taking individual components of the aquatic world system in isolation - be it a horizontally defined region or hydro-social node, or the vertically defined spectrum from surface to depths - cannot lead to anything but failure of hermeneutics. Only a complex world-system that includes more knowledges, spaces, depths and perspectives than it is possible to essay can capture the fierce problematics and promise of an unknowable ocean. 
