@@ -1,3 +1,5 @@
+.ve-style ../custom.css
+
 # Radical
 
 The traditions of radical geography serve us well as the exploitation of the deep ocean unfolds. Deep mapping is poised to embrace the drive to question and interrogate rather than simply measure space and place and the technologies that mediate. A radical oceanography seeks to look through that stated goals of deep see interactions - be they trawling, exploration, remote sensing or mining ambitions - as well as those atop the water - shipping, offshore oil and gas, imagined floating communities, attempts to clean up oceanic pollution. 
