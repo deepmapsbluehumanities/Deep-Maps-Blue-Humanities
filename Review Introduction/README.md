@@ -23,7 +23,7 @@ Note that this book is a hybrid of scholarly argumentation and a deep map - it i
 2. Media items within this text (e.g. references, popovers exploring terms and people mentioned in the text, images, maps, galleries) - see Juncture user guide above.
 3. A Tapestry canvas containing embeds of the text fragments AND a wide range of media content - videos, images articles, etc.
 
-**It is best to imagine this publication as something between a large, extended and annotated essay, a deep map and a small monograph in the style of short-format publications that have been trialled by several publishers.**
+**It is best to imagine this publication as something between a large, extended and annotated essay, a deep map and a short-format monograph. It is currently an experimental draft.**
 
 The final result will exist online, but also captured and archived sustainably and shared through the content management system of its publisher ([University of Westminster Press](https://uwestminsterpress.co.uk/)). It will be gathered together, archived and presented as a digital publication via Fulcrum: ([https://www.fulcrum.org/]) In the future, extracts of the project may be gathered in print.
 
