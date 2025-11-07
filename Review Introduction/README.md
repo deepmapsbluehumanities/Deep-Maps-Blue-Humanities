@@ -25,6 +25,8 @@ Note that this book is a hybrid of scholarly argumentation and a deep map - it i
 
 **It is best to imagine this publication as something between a large, extended and annotated essay, a deep map and a short-format monograph. It is currently an experimental draft.**
 
+The final copy will be roughly twice as large (deep) on Tapestries with enhanced essay sections.
+
 The final result will exist online, but also captured and archived sustainably and shared through the content management system of its publisher ([University of Westminster Press](https://uwestminsterpress.co.uk/)). It will be gathered together, archived and presented as a digital publication via Fulcrum: ([https://www.fulcrum.org/]) In the future, extracts of the project may be gathered in print.
 
 **What this review is about:**
