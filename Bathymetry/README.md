@@ -14,7 +14,7 @@ Technology mediates the ability to descend and the possibility of safely ascendi
 
 At the attenuation of *telos*, the world does end for the epistemic mariner captured within the estranging bubble of the bathymetric descent. The surface is annihilated as the view reveals dreams, visions, annihilations, absences, strange presences, excesses, voids. Only relationships with the strange and the inchoate remain, drifting in currents of uncertain excess and absence.
 
-<iframe src="https://archive.org/embed/VR010" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen center></iframe>
+<iframe src="https://archive.org/embed/VR010" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen align="center"></iframe>
 
 .ve-media https://iiif.europeana.eu/presentation/2024904/https___www_topfoto_co_uk_asset_3041800/manifest width=50% center
 
