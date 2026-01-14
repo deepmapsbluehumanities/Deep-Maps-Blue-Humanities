@@ -29,10 +29,10 @@ The final result will exist online, but also captured and archived sustainably a
 
 **What this review is about:**
 
-1. Suggestions for additional ideas, additional text sections, supporting resource. Note that the majority of 'references' in a traditional sense will not appear in the text, except where directly cited. They will surround the text in juxtaposition (see Tapestry sample above) - they can be suggested, and I can add them to the Tapestry
-2. Lacunae - note that there are currently deliberate lacunae in the text sample that I will be filling with more small blocks as the mapping process begins. I am interested in exploring unexpected (or expected) juxtapositions and writing new content to match
-3. Suggestions about spatial positioning of supporting items (see [Tapestry sample](https://tapestries.media/t/793a0425-136f-40b1-bf38-dc9094f80c7c)) and broader ideas about representing the text spatially - the model is a vertical continuum descending through layers of text and reading
-4. Suggestions about Juncture elements appearing in-line (maps, reference material) - see Juncture user guide
+1.  Suggestions for additional ideas, additional text sections, supporting resource. Note that the majority of 'references' in a traditional sense will not appear in the text, except where directly cited. They will surround the text in juxtaposition (see Tapestry sample above) - they can be suggested, and I can add them to the Tapestry
+2.  Lacunae - note that there are currently deliberate lacunae in the text sample that I will be filling with more small blocks as the mapping process begins. I am interested in exploring unexpected (or expected) juxtapositions and writing new content to match
+3.  Suggestions about spatial positioning of supporting items (see [Tapestry sample](https://tapestries.media/t/793a0425-136f-40b1-bf38-dc9094f80c7c)) and broader ideas about representing the text spatially - the model is a vertical continuum descending through layers of text and reading
+4.  Suggestions about Juncture elements appearing in-line (maps, reference material) - see Juncture user guide
 
 See the [peer review guide](https://copim.pubpub.org/pub/deep-maps-peer-review/release/1) above for instructions about how to leave feedback within Github. This is experimental and as a result all comments are welcome.
 
