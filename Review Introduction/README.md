@@ -39,6 +39,4 @@ See the [peer review guide](https://copim.pubpub.org/pub/deep-maps-peer-review/r
 
 To view the Tapestry draft, you can look here or click [here](https://tapestries.media/u/jameslouis.smith/cecf434c-ce87-4dd8-8f09-31220b2df0d9) for full screen in a new tab.
 
-<iframe src="https://github.com/deepmapsbluehumanities/Deep-Maps-Blue-Humanities/blob/main/README.md" width=100% height="768" title="REVIEWME" frameborder="0"></iframe> 
-
 <iframe src="https://tapestries.media/u/jameslouis.smith/cecf434c-ce87-4dd8-8f09-31220b2df0d9" width=100% height="768" title="Tapestry Deep Maps: Blue Humanities (vertical draft)" frameborder="0"></iframe> 
