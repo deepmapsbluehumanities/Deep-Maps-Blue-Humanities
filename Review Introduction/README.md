@@ -11,7 +11,7 @@
 - Tapestries, <https://tapestries.media/>
 - GitHub repository containing all files, <https://github.com/deepmapsbluehumanities/Deep-Maps-Blue-Humanities>
 
-I am in a process of arranging Juncture essays (see sample essay above) inside a cloud of deep mapped media items (see Tapestry sample above).
+I am in a process of arranging Juncture essays (see Juncture guide above) inside a cloud of deep mapped media items (see Tapestry sample above).
 
 Note that this book is a hybrid of scholarly argumentation and a deep map - it is written for a range of audiences. As a result, it may not exhibit any of the expected norms of academic writing. It is an experiment, but one that will be assisted by your expert input. There are many design considerations that will benefit from your collected expertise.
 
