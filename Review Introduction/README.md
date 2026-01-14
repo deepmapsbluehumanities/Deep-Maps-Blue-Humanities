@@ -9,7 +9,6 @@
 - Presentation at 'Markdown, dive deep' event on the book and other topics in experimental publishing, <https://archive.org/details/Deep-Maps-event>
 - Juncture introduction and user guide, <https://www.juncture-digital.org/>
 - Tapestries, <https://tapestries.media/>
-- *Tapestry - Deep Maps: Blue Humanities* (sample of Juncture text in Tapestry) ([https://tapestries.media/t/793a0425-136f-40b1-bf38-dc9094f80c7c](https://tapestries.media/u/jameslouis.smith/cecf434c-ce87-4dd8-8f09-31220b2df0d9)) - note that CSS styling will be used to create white text on a black background in the final version
 - GitHub repository containing all files, <https://github.com/deepmapsbluehumanities/Deep-Maps-Blue-Humanities>
 
 I am in a process of arranging Juncture essays (see sample essay above) inside a cloud of deep mapped media items (see Tapestry sample above).
@@ -30,10 +29,11 @@ The final result will exist online, but also captured and archived sustainably a
 
 **What this review is about:**
 
-1.  Suggestions for additional ideas, additional text sections, supporting resource. Note that the majority of 'references' in a traditional sense will not appear in the text, except where directly cited. They will surround the text in juxtaposition (see Tapestry sample above) - they can be suggested, and I can add them to the Tapestry
-2.  Lacunae - note that there are currently deliberate lacunae in the text sample that I will be filling with more small blocks as the mapping process begins. I am interested in exploring unexpected (or expected) juxtapositions and writing new content to match
-3.  Suggestions about spatial positioning of supporting items (see [Tapestry sample](https://tapestries.media/t/793a0425-136f-40b1-bf38-dc9094f80c7c)) and broader ideas about representing the text spatially - the model is a vertical continuum descending through layers of text and reading
-4.  Suggestions about Juncture elements appearing in-line (maps, reference material) - see Juncture user guide
+1.  Suggestions for additional ideas, additional text sections, supporting resource. Note that the majority of 'references' in a traditional sense will not appear in the text, except where directly cited. They will surround the text in juxtaposition (see Tapestry sample above) - they can be suggested, and I can add them to the Tapestry 
+2.  I intend to caption all frames where the provenance is not clear from the contents (e.g. I will not cite an article that clearly displays its citation detail and DOI within the framed PDF, but I will caption any images without context) - all source images and material not contained within a frame are CC-BY licensed or public domain.
+3.  Lacunae - note that there are currently deliberate lacunae in the text sample that I will be filling with more small blocks as the mapping process begins. I am interested in exploring unexpected (or expected) juxtapositions and writing new content to match
+4.  Suggestions about spatial positioning of supporting items and broader ideas about representing the text spatially - the model is a vertical continuum descending through layers of text and reading - the reader may find this ([list of sample Tapestries] (https://tapestries.media/dashboard/public/)) helpful.
+5.  Suggestions about Juncture elements appearing in-line (maps, reference material) - see ([Juncture user guide] (https://www.juncture-digital.org/getting-started?id=creating-an-essay/)) for information.
 
 See the [peer review guide](https://copim.pubpub.org/pub/deep-maps-peer-review/release/1) above for instructions about how to leave feedback within Github. This is experimental and as a result all comments are welcome.
 
