@@ -10,7 +10,7 @@
 - Juncture introduction and user guide, <https://www.juncture-digital.org/>
 - Tapestries, <https://tapestries.media/>
 - *Tapestry - Deep Maps: Blue Humanities* (sample of Juncture text in Tapestry) ([https://tapestries.media/t/793a0425-136f-40b1-bf38-dc9094f80c7c](https://tapestries.media/u/jameslouis.smith/cecf434c-ce87-4dd8-8f09-31220b2df0d9)) - note that CSS styling will be used to create white text on a black background in the final version
-- GitHub repository, <https://github.com/deepmapsbluehumanities/Deep-Maps-Blue-Humanities>
+- GitHub repository containing all files, <https://github.com/deepmapsbluehumanities/Deep-Maps-Blue-Humanities>
 
 I am in a process of arranging Juncture essays (see sample essay above) inside a cloud of deep mapped media items (see Tapestry sample above).
 
