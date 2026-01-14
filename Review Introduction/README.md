@@ -1,4 +1,4 @@
-# Review introduction
+# Deep Maps: Blue Humanities - Review introduction
 
 **Resources:**
 
