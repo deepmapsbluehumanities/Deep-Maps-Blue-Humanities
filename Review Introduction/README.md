@@ -7,7 +7,7 @@
 - *Markdown, dive deep* (hybrid event description), <https://copim.pubpub.org/pub/markdown-dive-deep/release/3>
 - Presentation at 'Markdown, dive deep' event on the book and other topics in experimental publishing, <https://archive.org/details/Deep-Maps-event>
 - Juncture introduction and user guide, <https://www.juncture-digital.org/>
-- Taprestries, https://tapestries.media/
+- Taprestries, <https://tapestries.media/>
 - *Tapestry - Deep Maps: Blue Humanities* (sample of Juncture text in Tapestry) ([https://tapestries.media/t/793a0425-136f-40b1-bf38-dc9094f80c7c](https://tapestries.media/u/jameslouis.smith/cecf434c-ce87-4dd8-8f09-31220b2df0d9)) - note that CSS styling will be used to create white text on a black background in the final version
 - GitHub repository, <https://github.com/deepmapsbluehumanities/Deep-Maps-Blue-Humanities>
 
