@@ -17,9 +17,9 @@ Note that this book is a hybrid of scholarly argumentation and a deep map - it i
 
 **It consists of three components:**
 
-1. Text fragments of c.500 words in length
-2. Media items within this text (e.g. references, popovers exploring terms and people mentioned in the text, images, maps, galleries) - see Juncture user guide above.
-3. A Tapestry canvas containing embeds of the text fragments AND a wide range of media content - videos, images articles, etc.
+- Text fragments of c.500 words in length
+- Media items within this text (e.g. references, popovers exploring terms and people mentioned in the text, images, maps, galleries) - see Juncture user guide above.
+- A Tapestry canvas containing embeds of the text fragments AND a wide range of media content - videos, images articles, etc.
 
 **It is best to imagine this publication as something between a large, extended and annotated essay, a deep map and a short-format monograph. It is currently an experimental draft.**
 
