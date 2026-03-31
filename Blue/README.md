@@ -2,7 +2,7 @@
 
 # Blue
 
-Blueness is a truism of the environmental humanities. Attending to blueness is a mandate of mono- and inter-disciplinary treatments of socio-natural sites and interactions. It overcomes the historical monopoly of green over the humanistic study of the environment.[^1] Thinking with the registers and vocabularies of waters—coastal, oceanic, lacustrine, fluvial, static—are inescapable, plural, rich and well covered by environmental literature. Within the environmental humanities the blue waits, encapsulated. It is a different register of the environmental and the Anthropocene, and is itself finely delineated into registers of aquatic worlds, stories and interactions. Deep mapping, like water, is protean and unstable, but can make sense of the world. A temporary, mutating, pluripotent, ever-inchoate and free-form sense, but a powerful one.
+Attending to blueness is a mandate of mono- and inter-disciplinary treatments of socio-natural sites and interactions. It overcomes the historical monopoly of green over the humanistic study of the environment.[^1] Thinking with the registers and vocabularies of waters—coastal, oceanic, lacustrine, fluvial, static—are inescapable, plural, rich and well covered by environmental literature. Within the environmental humanities the blue waits, encapsulated. It is a different register of the environmental and the Anthropocene, and is itself finely delineated into registers of aquatic worlds, stories and interactions. Deep mapping, like water, is protean and unstable, but can make sense of the world. A temporary, mutating, pluripotent, ever-inchoate and free-form sense, but a powerful one.
 
 .ve-media https://iiif.europeana.eu/presentation/89/item_FLYFT5KATHL5UNKSHV5UY6DP5OSUBZNA/manifest width=70% center
 
