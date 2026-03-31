@@ -12,4 +12,4 @@ Depth evokes a primordial fear. It is in many ways the oldest fear. The cosmogon
 
 [Link to section](https://www.juncture-digital.org/deepmapsbluehumanities/Deep-Maps-Blue-Humanities/Significance)
 
-[^1]: Hau’ofa, Epeli. ‘Our Sea of Islands’, 1994. [http://scholarspace.manoa.hawaii.edu/handle/10125/12960](http://scholarspace.manoa.hawaii.edu/handle/10125/12960); Hau’ofa, Epeli. ‘The Ocean in Us’, 1998. [http://scholarspace.manoa.hawaii.edu/handle/10125/13234](http://scholarspace.manoa.hawaii.edu/handle/10125/13234).
+[^1]: Epeli Hau’ofa. ‘Our Sea of Islands’, 1994. [http://scholarspace.manoa.hawaii.edu/handle/10125/12960](http://scholarspace.manoa.hawaii.edu/handle/10125/12960); Hau’ofa, Epeli. ‘The Ocean in Us’, 1998. [http://scholarspace.manoa.hawaii.edu/handle/10125/13234](http://scholarspace.manoa.hawaii.edu/handle/10125/13234).
