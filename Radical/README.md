@@ -4,7 +4,7 @@
 
 The traditions of radical geography serve us well as the exploitation of the deep ocean unfolds. Deep mapping is poised to embrace the drive to question and interrogate rather than simply measure space and place and the technologies that mediate. A radical oceanography seeks to look through that stated goals of deep see interactions - be they trawling, exploration, remote sensing or mining ambitions - as well as those atop the water - shipping, offshore oil and gas, imagined floating communities, attempts to clean up oceanic pollution. 
 
-No unexamined assumption of measurement, mapping or technological intervention can be allowed to remain unexamined. As Phillip Steinberg has put it, it is exceedingly difficult to tell a story of the ocean without somehow fetishising it or reducing it to medium rather than message:
+No unexamined assumption of measurement, mapping or technological intervention can be allowed to remain unexamined. As Philip Steinberg has put it, it is exceedingly difficult to tell a story of the ocean without somehow fetishising it or reducing it to medium rather than message:
 
 >How does one tell a sea story? Or, to restate the question: How does one put the sea in the centre of a story without fetishizing it in its alterity, or reducing it to a metaphor, or diminishing it to an environment that provides resources, or bypassing it as an intervening space in the middle? How does one bring the ocean to the foreground without elevating its materiality and its affordances – its opacity, its fluidity, its repetitive churn, its dangerous unpredictability, its emotive power, its embedded memories – into something that they are not.[^1]
 
@@ -14,4 +14,4 @@ One particular trope of deep sea sensing and investigation that cannot be permit
 
 [Link to section](https://www.juncture-digital.org/deepmapsbluehumanities/Deep-Maps-Blue-Humanities/Radical)
 
-[^1]: Phillip Steinberg (2025). Thinking from multiple oceans: historical and elemental lineages and futures of ocean geography(s). _Social & Cultural Geography_, 1–21, here p.1. [https://doi.org/10.1080/14649365.2025.2476507](https://doi.org/10.1080/14649365.2025.2476507)
+[^1]: Philip Steinberg (2025). Thinking from multiple oceans: historical and elemental lineages and futures of ocean geography(s). _Social & Cultural Geography_, 1–21, here p.1. [https://doi.org/10.1080/14649365.2025.2476507](https://doi.org/10.1080/14649365.2025.2476507)
