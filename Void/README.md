@@ -14,4 +14,4 @@ Likewise, there is a reason why we try and tell stories from datasets that are b
 
 [Link to section](https://www.juncture-digital.org/deepmapsbluehumanities/Deep-Maps-Blue-Humanities/Void)
 
-[^1]: Epeli Hau’ofa,, ‘Our Sea of Islands’, 1994 <[http://scholarspace.manoa.hawaii.edu/handle/10125/12960](http://scholarspace.manoa.hawaii.edu/handle/10125/12960)> [accessed 25 February 2014]; Hau’ofa, Epeli, ‘The Ocean in Us’, 1998 <[http://scholarspace.manoa.hawaii.edu/handle/10125/13234](http://scholarspace.manoa.hawaii.edu/handle/10125/13234)> [accessed 25 February 2014]
+[^1]: Epeli Hau’ofa,, ‘Our Sea of Islands’, 1994 <[http://scholarspace.manoa.hawaii.edu/handle/10125/12960](http://scholarspace.manoa.hawaii.edu/handle/10125/12960)> [accessed 31 March 2026]; Hau’ofa, Epeli, ‘The Ocean in Us’, 1998 <[http://scholarspace.manoa.hawaii.edu/handle/10125/13234](http://scholarspace.manoa.hawaii.edu/handle/10125/13234)> [accessed 31 March 2026]
