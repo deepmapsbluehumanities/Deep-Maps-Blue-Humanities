@@ -2,7 +2,7 @@
 
 **Resources:**
 
-- # REVIEWME guide, <https://github.com/deepmapsbluehumanities/Deep-Maps-Blue-Humanities/blob/main/README.md>
+-  REVIEWME guide, <https://github.com/deepmapsbluehumanities/Deep-Maps-Blue-Humanities/blob/main/README.md>
 - *Deep Maps: Monographs 'n' Markdown* (interview), <https://doi.org/10.21428/785a6451.fd1f9fe1>
 - *Deep Maps: experimenting with peer review* (peer review guide), <https://copim.pubpub.org/pub/deep-maps-peer-review/release/1>
 - *Markdown, dive deep* (hybrid event description), <https://copim.pubpub.org/pub/markdown-dive-deep/release/3>
