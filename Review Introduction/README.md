@@ -35,8 +35,10 @@ The final result will exist online, but also captured and archived sustainably a
 -   Suggestions about spatial positioning of supporting items and broader ideas about representing the text spatially - the model is a vertical continuum descending through layers of text and reading - the reader may find this ([list of sample Tapestries](https://tapestries.media/dashboard/public/)) helpful.
 -   Suggestions about Juncture elements appearing in-line (maps, reference material) - see ([Juncture user guide](https://www.juncture-digital.org/getting-started?id=creating-an-essay/)) for information.
 
-See the [peer review guide](https://copim.pubpub.org/pub/deep-maps-peer-review/release/1) above for instructions about how to leave feedback within Github. This is experimental and as a result all comments are welcome.
+See the [peer review guide](https://copim.pubpub.org/pub/deep-maps-peer-review/release/1) above for instructions about how to leave feedback within Github. This is experimental and as a result all comments are welcome. 
 
 To view the Tapestry draft, you can look here or click [here](https://tapestries.media/u/jameslouis.smith/cecf434c-ce87-4dd8-8f09-31220b2df0d9) for full screen in a new tab.
+
+**You can leave comments on any element of the Tapestry, but for general ongoing peer review comments (always welcome), please use the comments for the whole Tapestry at the top right of the page.**
 
 <iframe src="https://tapestries.media/u/jameslouis.smith/cecf434c-ce87-4dd8-8f09-31220b2df0d9" width=100% height="768" title="Tapestry Deep Maps: Blue Humanities (vertical draft)" frameborder="0"></iframe> 
