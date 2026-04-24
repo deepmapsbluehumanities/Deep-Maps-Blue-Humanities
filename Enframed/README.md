@@ -9,4 +9,4 @@ By measuring the ocean and viewing it from above through the eyes of satellites 
 
 [Link to section](https://www.juncture-digital.org/deepmapsbluehumanities/Deep-Maps-Blue-Humanities/Enframed)
 
-[^1]: Melody Jue. _Wild Blue Media: Thinking through Seawater_. Duke University Press, 2020. [https://doi.org/10.1215/9781478007548](https://doi.org/10.1215/9781478007548), 126
+[^1]: Melody Jue, _Wild Blue Media: Thinking through Seawater_ (Duke University Press, 2020), [https://doi.org/10.1215/9781478007548](https://doi.org/10.1215/9781478007548), 126.
