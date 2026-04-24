@@ -2,9 +2,9 @@
 
 # Fading
 
-The fading and attenuation of the bright busy surface world moves through a gradient of terror and anxiety, a clinamen along which thoughts and perceptions flow. As what can be seen lessens and what can be imagined grows, the view from the surface recedes. What, then, remains? A world of lightlessness that is not dark, a world of cold that contains warmth. A place that is dead filled with life. A place that is as rich with human and non-human history as the surface, and yet hides behind a hyper-objective absence. As the myth of the dark and the fear of an empirically-minded Western positivism gives way to a reality of dynamic colour and stories depth, we move with it.
+The fading and attenuation of the bright busy surface world moves through a gradient of terror and anxiety, a clinamen along which thoughts and perceptions flow. As what can be seen lessens and what can be imagined grows, the view from the surface recedes. What, then, remains? A world of lightlessness that is not dark, a world of cold that contains warmth. A place that is dead filled with life. A place that is as rich with human and non-human history as the surface, and yet hides behind a hyperobjective absence. As the myth of the dark and the fear of an empirically-minded Western positivism gives way to a reality of dynamic colour and stories depth, we move with it.
 
->... A violet-black abyssal ecology is not a single hue but is instead pop­ulated with a spectrum of colors extending across the range of what is humanly visible and beyond. A veritable constellation of creatures who create their own light supplants a terrestrial, heliocentric model of sover­eign, unitary, human (or divine) knowledge. Prismatic, fluid constellations of bioluminescent animals in the violet-black abyss experience a world where the Copernican revolution is irrelevant. (Even the "fact" that all life depends on the sun, which most of us learned in elementary school, is no longer quite true, as chemosynthesis in marine vent ecologies does not depend on photosynthesis.)[^1]
+>A violet-black abyssal ecology is not a single hue but is instead populated with a spectrum of colors extending across the range of what is humanly visible and beyond. A veritable constellation of creatures who create their own light supplants a terrestrial, heliocentric model of sovereign, unitary, human (or divine) knowledge. Prismatic, fluid constellations of bioluminescent animals in the violet-black abyss experience a world where the Copernican revolution is irrelevant. (Even the 'fact' that all life depends on the sun, which most of us learned in elementary school, is no longer quite true, as chemosynthesis in marine vent ecologies does not depend on photosynthesis.)[^1]
 
 .ve-media https://iiif.europeana.eu/presentation/2022362/_Royal_Museums_Greenwich__http___collections_rmg_co_uk_collections_objects_104640/manifest center
 
@@ -14,5 +14,5 @@ As we move beyond the oppressive illumination of the sun and its ordering regime
 
 [Link to section](https://www.juncture-digital.org/deepmapsbluehumanities/Deep-Maps-Blue-Humanities/Fading)
 
-[^1]: Alaimo, Stacy. ‘Violet-Black’. In _Prismatic Ecology: Ecotheory beyond Green_, edited by Lawrence Buell and Jeffrey Jerome Cohen, 0. University of Minnesota Press, 2013, p. 245.
-[^2]: Anthropocenes – Human, Inhuman. ‘Hyperobjects, Hyposubjects and Solidarity in the Anthropocene: _Anthropocenes_ Interview with Timothy Morton and Dominic Boyer’. _Anthropocenes – Human, Inhuman, Posthuman_ 1, no. 1 (27 May 2020): 10, p. 2.
+[^1]: Stacy Alaimo. ‘Violet-Black’. In _Prismatic Ecology: Ecotheory beyond Green_, ed. Lawrence Buell and Jeffrey Jerome Cohen (University of Minnesota Press, 2013), 245.
+[^2]: Anthropocenes – Human, Inhuman. ‘Interview with Timothy Morton and Dominic Boyer’, _Anthropocenes – Human, Inhuman, Posthuman_ 1, no. 1 (27 May 2020): 2.
