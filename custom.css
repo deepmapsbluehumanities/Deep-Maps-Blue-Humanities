@@ -46,6 +46,6 @@ body {
 mark {
     color: #fff;
 }
-#juncture a {
+#juncture a:visited {
     color: #0645ad;
 }
