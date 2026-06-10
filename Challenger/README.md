@@ -10,5 +10,7 @@ The Challenger deep yawns in imagination, once thought to be beyond the imagined
  It is the dark night of the soul, as the Spanish mystic St. John of the Cross put it. A crisis of faith, a crisis of knowing, an awareness of how small we are. 
  
  Beyond the lacuna? Hope. A new beginning. There is life there. Without sun. Without light. Without heat save that of the earth's ruptured veins. 
+ 
+ So ends this book. Not with lacuna. Not with darkness. But with hope. That we can explore without totalising. Know without controlling. Delve without disrupting. And above all, feel the magic of creativity and the spirit of experimentations. Here in this darkest and lowest of places. Now at this most fragile of times.
 
 [^1]: Neal Shusterman. *Challenger Deep: A Heartfelt Exploration of Teenage Mental Health*. With Brendan Shusterman (Quill Tree Books, 2015).
