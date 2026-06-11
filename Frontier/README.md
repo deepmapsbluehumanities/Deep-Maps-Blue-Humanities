@@ -6,6 +6,8 @@ Seminal political science fiction such as Kim Stanley Robinson's Mars trilogy te
 
 This book has primarily focused on the depths of Earth's oceans, and yet a solar system of oceans, and entire planets, wait exploitation at a time when the world's richest man clearly has designs on both controlling space and escaping the consequences of the chaos wrought by his oligarchic brethren here on Earth. In the future we will need xenoecocriticism, radical xenogeography, and deep maps of new worlds. The process is already beginning: ecocriticism and the environmental humanities are keenly attuned to space, and will continue to be even more so as time advances.
 
+.ve-media https://iiif.europeana.eu/presentation/485/https___www_esbirky_cz_detail_12462927/manifest width=80% center
+
 This book presents an ideal opportunity to speculate about what both new attention on extraterrestrial spaces and new means to reach them could mean. In this respect, the ocean is a perfect analogy. Will humans be living in domed cities on the bottom of the ocean? Maybe not. This is not SeaQuest DSV, a popular 90s television show imagining this scenario. Will humans send drones and automated mining rigs to these spaces and strip mine them, safely out of sight and scrutiny. Without push-back, definitely. Will humans live in space in the coming decades? Possibly. Will humans discover that sending autonomous drones to planets and asteroids for mining operations is profitable as terrestrial resources dwindle? Also very possible.
 
 The solar system will meet the same fate as the oceans without critical awareness, and human bodies cannot visit these places en masse to bear witness or protest. The two examples are disturbingly cognate and of vital importance.
