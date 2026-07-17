@@ -10,4 +10,4 @@ Despite these limitations, the most alien place on planet Earth still produces l
 
 [Link to section](https://www.juncture-digital.org/deepmapsbluehumanities/Deep-Maps-Blue-Humanities/Vents)
 
-[^1]: R Sandulli, Ingels J, Zeppilli D, Sweetman AK, Hardy Mincks S, Mienis F and Chin-Lin W (2021) Editorial: Extreme Benthic Communities in the Age of Global Change. *Front. Mar. Sci.* 7:609648. doi: 10.3389/fmars.2020.609648, p. 2
+[^1]: R Sandulli et al., 'Editorial: Extreme Benthic Communities in the Age of Global Change' *Frontiers in Marine Science*, 7 (2021):2, [https://doi.org/10.3389/fmars.2020.609648](https://doi.org/10.3389/fmars.2020.609648).
