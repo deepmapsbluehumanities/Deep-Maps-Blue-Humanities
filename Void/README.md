@@ -2,7 +2,7 @@
 
 # Void
 
-What can the blue humanities learn from deep mapping? First and foremost, it provides an opportunity to enthusiastically embrace the inherent contradictions of the ocean. Secondly, it allows enthusiastic adoption of non-linear movements through material, a ==Kamau Brathwaite=={Q1722859 data-popover-trigger="click”} ==tidalectic=={Q127986411 data-popover-trigger="click”} rather than a Socratic ==dialectic=={Q48769028 data-popover-trigger="click”}. It allows for a vision of the sea as home and not alien, seas of islands not islands in the sea, to quote ==Epeli Hau’ofa=={Q1326832}.[^1] It reminds us that claims to absolute authority and neat conclusion are delusions, that the quantification and utilitarian demarcation of the blue world is a delusion of human control. It reminds us both of why humans are right to fear water, and why they are simultaneously right to love it. It reminds us that the world is a cluster of fierce problems and contradictions that cannot be solved, only explored.
+What can the blue humanities learn from deep mapping? First and foremost, it provides an opportunity to enthusiastically embrace the inherent contradictions of the ocean. Secondly, it allows enthusiastic adoption of non-linear movements through material, a Kamau Brathwaite tidalectic rather than a Socratic dialectic. It allows for a vision of the sea as home and not alien, seas of islands not islands in the sea, to quote Epeli Hau’ofa.[^1] It reminds us that claims to absolute authority and neat conclusion are delusions, that the quantification and utilitarian demarcation of the blue world is a delusion of human control. It reminds us both of why humans are right to fear water, and why they are simultaneously right to love it. It reminds us that the world is a cluster of fierce problems and contradictions that cannot be solved, only explored.
 
 .ve-media https://iiif.europeana.eu/presentation/199/item_ZT2MQA4UTYU7ECI3722NMTT6L436P3XF/manifest width=50% center
 
@@ -14,4 +14,4 @@ Likewise, there is a reason why we try and tell stories from datasets that are b
 
 [Link to section](https://www.juncture-digital.org/deepmapsbluehumanities/Deep-Maps-Blue-Humanities/Void)
 
-[^1]: Epeli Hau’ofa,, ‘Our Sea of Islands’, 1994 <[http://scholarspace.manoa.hawaii.edu/handle/10125/12960](http://scholarspace.manoa.hawaii.edu/handle/10125/12960)> [accessed 31 March 2026]; Hau’ofa, Epeli, ‘The Ocean in Us’, 1998 <[http://scholarspace.manoa.hawaii.edu/handle/10125/13234](http://scholarspace.manoa.hawaii.edu/handle/10125/13234)> [accessed 31 March 2026]
+[^1]: Epeli Hau’ofa,, ‘Our Sea of Islands’, Scholar Space, 1994, [http://scholarspace.manoa.hawaii.edu/handle/10125/12960](http://scholarspace.manoa.hawaii.edu/handle/10125/12960); Epeli Hau’ofa, ‘The Ocean in Us’, Scholar Space, 1998, [http://scholarspace.manoa.hawaii.edu/handle/10125/13234](http://scholarspace.manoa.hawaii.edu/handle/10125/13234).
