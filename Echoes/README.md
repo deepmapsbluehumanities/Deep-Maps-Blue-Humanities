@@ -10,4 +10,4 @@ The returned echoes are shaped by the dominant emotions of the speaker. If motiv
 
 [Link to section](https://www.juncture-digital.org/deepmapsbluehumanities/Deep-Maps-Blue-Humanities/Echoes)
 
-[^1]: James L. Smith ‘Anxieties of Access: Remembering as a Lake’, _Environmental Humanities_ 13, no. 1 (1 May 2021): 245–63, https://doi.org/10.1215/22011919-8867296](https://doi.org/10.1215/22011919-8867296.
+[^1]: James L. Smith ‘Anxieties of Access: Remembering as a Lake’, _Environmental Humanities_ 13, no. 1 (1 May 2021): 245–63, [https://doi.org/10.1215/22011919-8867296]https://doi.org/10.1215/22011919-8867296.
