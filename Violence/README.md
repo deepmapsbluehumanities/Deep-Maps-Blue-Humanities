@@ -16,7 +16,7 @@ This approach requires a fundamental shift in thinking. The crisis experienced b
 
 [^1]: Jonathan Howard, 'Swim your ground: Towards a black and blue humanities', _Atlantic Studies_, 20, no. 2 (2022): 308–330, [https://doi.org/10.1080/14788810.2021.2015944](https://doi.org/10.1080/14788810.2021.2015944).
 [^2]: Elizabeth DeLoughrey, 'Kinship in the abyss: submerging with _The Deep_', *Atlantic Studies*, 20, no. 2: 348–360, [https://doi.org/10.1080/14788810.2022.2080462](https://doi.org/10.1080/14788810.2022.2080462).
-[^3]: James L. Smith, Anxieties of Access: Remembering as a Lake. _Environmental Humanities_ 1 May 2021; 13 (1): 245–263. doi: [https://doi.org/10.1215/22011919-8867296](https://doi.org/10.1215/22011919-8867296)
-[^4]: Jonathan Pugh and David Chandler (2023), _The World as Abyss: The Caribbean and Critical Thought in the Anthropocene_ (London: University of Westminster Press), p. 6
-[^5]: Jonathan Pugh and David Chandler (2023), _The World as Abyss: The Caribbean and Critical Thought in the Anthropocene_ (London: University of Westminster Press), p. 10
+[^3]: James L. Smith, 'Anxieties of Access: Remembering as a Lake', _Environmental Humanities_, 13, no. 1 (1 May 2021): 245–263, [https://doi.org/10.1215/22011919-8867296](https://doi.org/10.1215/22011919-8867296).
+[^4]: Jonathan Pugh and David Chandler (2023), _The World as Abyss: The Caribbean and Critical Thought in the Anthropocene_ (University of Westminster Press, 2023), p. 6
+[^5]: Pugh and Chandler, _The World as Abyss, 10.
 
