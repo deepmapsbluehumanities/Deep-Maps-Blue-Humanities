@@ -4,7 +4,7 @@
 
 Pugh and Chandler set out to 'explore how "abyssal" work turns to the Caribbean, not to find a world-saving cosmology to correct the errors of modern reasoning but, to learn from those who have long been said to lack fixed grounds of ontological security.'[^1] Within an unstable abyss of identities in which there is no narrative of redemption of technical solutionism, Western thinkers must learn from the example of those for whom an abyss has already risen, swallowing up fixity. Fixity is not a luxury that anyone - let alone anyone who lives in litoral or pelagic zones - can afford or expect. Like a deep map and its hungry corpus of heterogeneous ideas, sights, sounds, perspectives and memories, abyssal and deep blue modernity will be chaos. 
 
-.ve-media https://iiif.europeana.eu/presentation/15514/PI_12024/manifest width=80% center
+.ve-media https://iiif.europeana.eu/presentation/15514/PI_12024/manifest width=50% center
 
 And yet within this chaos, the seeds of new narratives, of striving for new ontologies and histories and poetics and relationships. Security is a dream that has ended for many in this world, disrupted by settler-colonialism, extractive capitalism, globalisation and neoliberalism. Some lose their homes to the waves and see their lifestyles eaten by an abyss that consumes ideas, goods, livelihoods and identities in equal measure. Others build walls and hide behind coastal engineering, dreaming of cloud seeding and ocean mining and scientific progress and border control. The abyssal reality of the great wave to come looms, and the lessons to be learned reside in unexpected corners and practices. Deep map to understand, deep map to survive, learn to swim in the vortex, make meaning in the dissolution of world orders. 
 
