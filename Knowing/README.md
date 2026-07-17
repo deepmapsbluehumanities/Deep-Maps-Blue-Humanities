@@ -12,7 +12,7 @@ What lies at the heart of a push to sense the ocean? An unease about the consequ
 
 [Link to section](https://www.juncture-digital.org/deepmapsbluehumanities/Deep-Maps-Blue-Humanities/Knowing)
 
-[^1]: 'UN Sustainable Development Goal #14 Life Below Water', Global Goals, accessed 27 March 2026, https://www.globalgoals.org/goals/14-life-below-water/
-[^2]: The Nippon Foundation and General Bathymetry Chart of the Ocean (GEBCO) Seabed 2030 project, https://www.gebco.net/
-[^3]: Steve Mentz, _At the Bottom of Shakespeare’s Ocean_ (Continuum, 2009)
-[^4]: John Corrigan. ‘The Inexactitude of Science: Deep Mapping and Scholarship’. In _Making Deep Maps_. Routledge, 2021, 162-174, here p. 168
+[^1]: 'UN Sustainable Development Goal #14 Life Below Water', Global Goals, accessed 27 March 2026, [https://www.globalgoals.org/goals/14-life-below-water/](https://www.globalgoals.org/goals/14-life-below-water/).
+[^2]: 'General Bathymetry Chart of the Ocean (GEBCO)', accessed 27 March 2026, [https://www.gebco.net/](https://www.gebco.net/).
+[^3]: Steve Mentz, _At the Bottom of Shakespeare’s Ocean_ (Continuum, 2009).
+[^4]: John Corrigan. ‘The Inexactitude of Science: Deep Mapping and Scholarship’, in _Making Deep Maps_ (Routledge, 2021), 168
