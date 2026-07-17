@@ -10,6 +10,8 @@ Elsewhere in this book, we have seen examples of the ways in which materialist a
 
 >Key for approaches which enable us to draw out the abyssal analytic, is that ‘the human’ and ‘the world’ are conceptually and materially inseparable from the violent histories of chattel slavery, coloniality and racial capitalism. For abyssal approaches, this world is not over, nor can some pre-existing or pure world, without the grounding violence of chattel slavery and coloniality, be salvaged or redeemed.[^5]
 
+.ve-media https://iiif.europeana.eu/presentation/463/item_NNQWV344NLKLOVAQT4PXJSKD57DUYSYJ/manifest width=60% center
+
 This approach requires a fundamental shift in thinking. The crisis experienced by the Global North was centuries in the making elsewhere in the world. The violence of the present manifested through the degradation and exploitation of the deep ocean, as well as its disenchantment and reduction in ontological status, is the next step in a very long and very slow violence inflicted by the powerful. Only by recognising that there is more at stake than a few mistakes of consumption to be corrected can an equitable solution emerge.
 
 [Link to section](https://www.juncture-digital.org/deepmapsbluehumanities/Deep-Maps-Blue-Humanities/Violence)
