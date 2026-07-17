@@ -12,5 +12,5 @@ It is understandable that an incomprehensibly deep map might provoke fear and pa
 
 [Link to section](https://www.juncture-digital.org/deepmapsbluehumanities/Deep-Maps-Blue-Humanities/Tesseracts)
 
-[^1]: Anthropocenes – Human, Inhuman. ‘Hyperobjects, Hyposubjects and Solidarity in the Anthropocene: _Anthropocenes_ Interview with Timothy Morton and Dominic Boyer’. _Anthropocenes – Human, Inhuman, Posthuman_ 1, no. 1 (27 May 2020): 10, p. 2.
+[^1]: 'Interview with Timothy Morton and Dominic Boyer’. _Anthropocenes – Human, Inhuman, Posthuman_ 1, no. 1 (27 May 2020): 10, 2.
 [^2]: Timothy Morton, _Hyperobjects: Philosophy and Ecology after the End of the World_, (University of Minnesota Press, 2013).
